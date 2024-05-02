@@ -10,3 +10,7 @@ This artist creates through the use of color and abstract shapes. I think this w
 
 ## **Part2:Coding Technique Exploration**
 
+
+In order to achieve the effect produced in the picture, I think it can be achieved using a combination of [triangle](https://p5js.org/reference/#/p5/triangle) and [rectangles](https://p5js.org/reference/#/p5/rect). Each row consists of a sequence of five triangles, separated by vertical rectangles.
+![An image of triangle](assets/Triangle.png)
+![An image of rect](assets/rect.png)
