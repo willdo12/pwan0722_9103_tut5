@@ -1,14 +1,10 @@
-# pwan0722_9103_tut5
-My first repository for IDEA9103
+# pwan0722_9103_tut5 Week 8 Quiz 
 
-This is my first local change to the repo!
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+
+
+## **Part1: Image Technique Inspiration**
+
 
 **Bold Text**
 *Italic Text*
@@ -22,17 +18,10 @@ This is my first local change to the repo!
 2. Second Item
 3. Third Item
 
-[Link Text](https://www.google.com)
 
-![An image](https://placekitten.com/200/300)
+![An image of Lesley Dumbrell](assets/Lesley%20Dumbrell%20.png)
+![An image of Lesley Dumbrell](assets/Lesley%20Dumbrell%201.png)
 
-![An image of Mona Lisa](assets/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
 
-'''
-function hellworld()
-{
-    console.log("Hello world");
-}
-'''
 
 > This is a blockquote
