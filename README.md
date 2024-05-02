@@ -11,7 +11,7 @@ This artist creates through the use of color and abstract shapes. I think this w
 ## **Part2:Coding Technique Exploration**
 
 
-In order to achieve the effect produced in the picture, I think it can be achieved using a combination of [triangle](https://p5js.org/reference/#/p5/triangle) and [rectangles](https://p5js.org/reference/#/p5/rect). Each row consists of a sequence of five triangles, separated by vertical rectangles.also this artwork can be made using the [for](https://p5js.org/reference/#/p5/for)loops to repeatedly create the same shape, and the colors can also be changed using randomization.
+In order to achieve the effect produced in the picture, I think it can be achieved using a combination of [triangle](https://p5js.org/reference/#/p5/triangle) and [rectangles](https://p5js.org/reference/#/p5/rect). Each row consists of a sequence of five triangles, separated by vertical rectangles.also this artwork can be made using the [for](https://p5js.org/reference/#/p5/for) loops to repeatedly create the same shape, and the colors can also be changed using randomization.
 ![An image of triangle](assets/Triangle.png)
 ![An image of rect](assets/rect.png)
 ![An image of for loop](assets/for.png)
